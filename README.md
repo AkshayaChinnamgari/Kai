@@ -17,7 +17,7 @@ Kai is a smart desktop voice assistant that:
 6. Provides an intuitive GUI with theme toggling and mic control
 
 
-#Features
+**Features**
 
 1. Speech Recognition + TTS
 
@@ -32,3 +32,15 @@ Kai is a smart desktop voice assistant that:
 6. Smart Code Generation with File Saving
 
 7. CustomTkinter GUI with Dark/Light Themes
+
+**Tech Stack**
+
+1. Python, CustomTkinter
+
+2. Gemini & Mistral APIs
+
+3. SerpAPI, OpenWeatherMap API
+
+4. SpeechRecognition, pyttsx3
+
+5. AsyncIO, Regex
