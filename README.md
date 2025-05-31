@@ -1,6 +1,6 @@
 # Kai
 
-Kai: Voice-Based AI Assistant
+#Kai: Voice-Based AI Assistant
 
 Kai is a smart desktop voice assistant that:
 
@@ -16,7 +16,9 @@ Kai is a smart desktop voice assistant that:
 
 6. Provides an intuitive GUI with theme toggling and mic control
 
-Features
+
+#Features
+
 1. Speech Recognition + TTS
 
 2. Multi-AI integration (Gemini & Mistral)
