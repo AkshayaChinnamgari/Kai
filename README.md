@@ -1,6 +1,6 @@
 # Kai
 
-#Kai: Voice-Based AI Assistant
+**Kai: Voice-Based AI Assistant**
 
 Kai is a smart desktop voice assistant that:
 
