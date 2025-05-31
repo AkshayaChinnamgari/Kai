@@ -1,4 +1,4 @@
-# Kai
+# Kai A.I.
 
 **Kai: Voice-Based AI Assistant**
 
